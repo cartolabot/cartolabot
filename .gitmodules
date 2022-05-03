@@ -1,0 +1,3 @@
+[submodule "cb-score-scraping-service"]
+	path = cb-score-scraping-service
+	url = git@github.com:willmaraujo/cb-score-scraping-service.git
