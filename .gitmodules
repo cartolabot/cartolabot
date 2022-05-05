@@ -1,3 +1,6 @@
 [submodule "cb-score-scraping-service"]
 	path = cb-score-scraping-service
 	url = git@github.com:willmaraujo/cb-score-scraping-service.git
+[submodule "cb-whatsapp-bot"]
+	path = cb-whatsapp-bot
+	url = git@github.com:willmaraujo/cb-whatsapp-bot.git
