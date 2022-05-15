@@ -4,3 +4,6 @@
 [submodule "cb-whatsapp-bot"]
 	path = cb-whatsapp-bot
 	url = git@github.com:willmaraujo/cb-whatsapp-bot.git
+[submodule "cb-cartola-scraping-service"]
+        path = cb-cartola-scraping-service
+        url = git@github.com:willmaraujo/cb-cartola-scraping-service.git
