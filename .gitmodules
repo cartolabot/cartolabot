@@ -7,3 +7,6 @@
 [submodule "cb-cartola-scraping-service"]
 	path = cb-cartola-scraping-service
 	url = git@github.com:willmaraujo/cb-cartola-scraping-service.git
+[submodule "cb-infra"]
+	path = cb-infra
+	url = git@github.com:willmaraujo/cb-infra.git
