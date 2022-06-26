@@ -9,5 +9,8 @@
 	url = git@github.com:willmaraujo/cb-infra.git
 [submodule "cb-df-integration-service"]
         path = cb-df-integration-service
-        url = git@github.com:willmaraujo/cb-df-integration-service.git
+        url = git@github.com:cartolabot/cb-df-integration-service.git
+[submodule "cb-wp-integration-service"]
+        path = cb-df-integration-service
+        url = git@github.com:cartolabot/cb-wp-integration-service.git
 
