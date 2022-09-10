@@ -14,3 +14,6 @@
         path = cb-df-integration-service
         url = git@github.com:cartolabot/cb-wp-integration-service.git
 
+[submodule "cb-database-integration-service"]
+	path = cb-database-integration-service
+	url = git@github.com:cartolabot/cb-database-integration-service.git
