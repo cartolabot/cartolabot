@@ -1,5 +1,5 @@
 # CartolaBot
-Yor personal assistent for football data
+Yor personal assistent for anything you want.
 
 ## Project Structure
 
